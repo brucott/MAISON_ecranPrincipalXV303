@@ -1,0 +1,5 @@
+<SubScreen Guid="e5954d82-5b13-4673-bcac-de8f8c450a7a" Res="[70 600]" ScreenColor="[255 192 192 192]" ActiveSet="f4b9360d-549c-4367-b086-cafe40592bdf" Name="SideMenu" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
+  <Checksum Value="835170545" />
+  <ControlSet Guid="f4b9360d-549c-4367-b086-cafe40592bdf" Name="ControlSet" />
+  <SSPC Guid="93e98b87-215f-49ff-9ff5-1e60dc324506" />
+</SubScreen>

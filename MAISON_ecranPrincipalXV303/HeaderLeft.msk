@@ -1,0 +1,15 @@
+<SubScreen Guid="dd023fed-206b-4783-ac8a-f2ae2e916827" Res="[40 40]" ScreenColor="[0 255 255 255]" ActiveSet="70680bf2-016c-4f8c-956c-ef6d0963db3b" Name="HeaderLeft" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
+  <Checksum Value="1159803965" />
+  <MenuButton Guid="463b392d-a8f8-487e-b833-72191d09ac76" LockedPosition="0" ControlSet="70680bf2-016c-4f8c-956c-ef6d0963db3b" Name="" Anchor="5" Menu="e5954d82-5b13-4673-bcac-de8f8c450a7a" Click="0" FrameStyle="2" Alignment="0" Behavior="0" Dim="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40">
+    <State Guid="ce5df964-673d-4429-814f-1758353be9cf" Name="Active" Version="[1.1.0]">
+      <ColorDecorator Guid="b3245f95-5adb-4b87-af72-6f1aae04d1d6" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <IconImageDecorator Guid="16eb9271-1fa8-4115-b031-c94a056a670f" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="660870fa-b3ef-480d-a562-75ab35f623c4" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 0px]" />
+    </State>
+    <State Guid="e70aa025-c0b1-4ac8-9fee-f2b5e5065c75" Name="Inactive" Version="[1.1.0]">
+      <ColorDecorator Guid="baef112f-73f8-4418-bed5-de6dd12c5795" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <IconImageDecorator Guid="30913e89-e8ae-4a02-8ae2-105caab3cbc4" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="660870fa-b3ef-480d-a562-75ab35f623c4" TriggerData_PropType="1" Margins="[5px, 5px, 5px, 0px]" />
+    </State>
+  </MenuButton>
+  <ControlSet Guid="70680bf2-016c-4f8c-956c-ef6d0963db3b" Name="ControlSet" />
+  <SSPC Guid="c59ffdfa-019d-418d-b815-401043155adc" />
+</SubScreen>
