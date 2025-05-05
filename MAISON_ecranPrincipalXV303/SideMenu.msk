@@ -1,5 +1,45 @@
 <SubScreen Guid="e5954d82-5b13-4673-bcac-de8f8c450a7a" Res="[70 600]" ScreenColor="[255 192 192 192]" ActiveSet="f4b9360d-549c-4367-b086-cafe40592bdf" Name="SideMenu" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
-  <Checksum Value="835170545" />
+  <Checksum Value="1261794586" />
+  <ScreenChange Guid="8b2a3210-ac63-49a1-8328-8c613c91102e" LockedPosition="0" ControlSet="f4b9360d-549c-4367-b086-cafe40592bdf" Name="" Anchor="5" Style="caac676b-0dce-4cf0-a6a8-f8ddf6a02dc6" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="50" Height_PropType="0" Height_Value="50" TargetScreenData_PropType="0" TargetScreenData_Value="dae644af-3f4a-4504-92b4-8cffc85bbc07">
+    <State Guid="5ea270d5-e4e4-45f4-bc4d-a3347c5d1380" Name="On" Version="[1.1.0]">
+      <BackImageDecorator Guid="1ad86574-a9e9-434f-aa6b-2609d870394d" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="284f05db-2e37-43fb-9b37-0d61e86e53a0" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="55062619-4144-4133-acf8-30856e325dec" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+    <State Guid="0b0b4b72-dbb8-4944-99bf-b3639dcf786f" Name="Off" Version="[1.1.0]">
+      <BackImageDecorator Guid="c9ac5cf4-57f6-4294-9fe7-14fc7fbe0dec" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="a8848ee0-4d26-41bb-814c-08edc7382c3f" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="55062619-4144-4133-acf8-30856e325dec" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+  </ScreenChange>
+  <ScreenChange Guid="e42197f8-23fd-40e8-98df-48141ac2918c" LockedPosition="0" ControlSet="f4b9360d-549c-4367-b086-cafe40592bdf" Name="" Anchor="5" Style="caac676b-0dce-4cf0-a6a8-f8ddf6a02dc6" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="70" Width_PropType="0" Width_Value="50" Height_PropType="0" Height_Value="50" TargetScreenData_PropType="0" TargetScreenData_Value="dae644af-3f4a-4504-92b4-8cffc85bbc07">
+    <State Guid="9f85ed71-3211-4325-a3cc-182801043d83" Name="On" Version="[1.1.0]">
+      <BackImageDecorator Guid="41ad42b3-cb4a-4156-a56e-c91c0351b8da" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="9d9635ab-8bb3-44f9-b8d9-8a3d00356de6" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="d0d4ec0c-d5b3-4260-84e2-b1e65da7b516" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+    <State Guid="f2e3769f-7842-4b33-88d9-f34aada68636" Name="Off" Version="[1.1.0]">
+      <BackImageDecorator Guid="7938eccb-a28d-409d-be47-c320f42e0e4a" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="909e1bb6-2f55-470f-83a7-273987800bc2" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="d0d4ec0c-d5b3-4260-84e2-b1e65da7b516" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+  </ScreenChange>
+  <ScreenChange Guid="506198c5-f36b-4bb1-8db8-100df39d3a26" LockedPosition="0" ControlSet="f4b9360d-549c-4367-b086-cafe40592bdf" Name="" Anchor="5" Style="caac676b-0dce-4cf0-a6a8-f8ddf6a02dc6" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="130" Width_PropType="0" Width_Value="50" Height_PropType="0" Height_Value="50" TargetScreenData_PropType="0" TargetScreenData_Value="cf93d822-b400-43a8-9b14-d31564aea0d3">
+    <State Guid="d55ba6a5-b859-4315-9caa-91e79c18b314" Name="On" Version="[1.1.0]">
+      <BackImageDecorator Guid="6ef61671-1a8f-4e4d-b454-970afcb7e303" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="67e992a3-5c64-4543-a050-6a654884615d" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="e93548d7-8b1f-41d6-8eb2-fa0d1ec360b8" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+    <State Guid="63327bea-ecbd-4ab6-b033-29dc8afff790" Name="Off" Version="[1.1.0]">
+      <BackImageDecorator Guid="b49592ed-2ebc-4599-bcd7-39481cfdf0ee" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="17ef6779-e0c3-41cc-b439-8050542bd72c" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="e93548d7-8b1f-41d6-8eb2-fa0d1ec360b8" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+  </ScreenChange>
+  <ScreenChange Guid="ae152747-2326-461c-9616-bea4fa39e77e" LockedPosition="0" ControlSet="f4b9360d-549c-4367-b086-cafe40592bdf" Name="" Anchor="5" Style="caac676b-0dce-4cf0-a6a8-f8ddf6a02dc6" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="190" Width_PropType="0" Width_Value="50" Height_PropType="0" Height_Value="50" TargetScreenData_PropType="0" TargetScreenData_Value="ca8d4caf-3a0d-4ca9-a7c3-da32b0224ebb">
+    <State Guid="19c19ca0-22e0-41f0-8bf4-dfa8d572325e" Name="On" Version="[1.1.0]">
+      <BackImageDecorator Guid="cd787fa5-db61-4932-beed-a2afe524598d" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="3810db2c-5051-44ee-b2db-8d22627e5561" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="fdb7e8f9-612e-4f35-a8c6-0ccc31a61168" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+    <State Guid="8f1f07cd-2f52-4867-a22b-fb58e60bd493" Name="Off" Version="[1.1.0]">
+      <BackImageDecorator Guid="091baebc-e77b-492a-9073-9ee3c5e39015" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aa20034b-7dd5-40a8-ae20-5c42f28f5a32" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="4b515a55-7d25-4124-b23b-7a11984721e1" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="fdb7e8f9-612e-4f35-a8c6-0ccc31a61168" TriggerData_PropType="1" Margins="[5px, 0px, 5px, 5px]" />
+    </State>
+  </ScreenChange>
   <ControlSet Guid="f4b9360d-549c-4367-b086-cafe40592bdf" Name="ControlSet" />
   <SSPC Guid="93e98b87-215f-49ff-9ff5-1e60dc324506" />
 </SubScreen>

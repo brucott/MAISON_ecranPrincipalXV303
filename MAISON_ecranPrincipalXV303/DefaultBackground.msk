@@ -1,10 +1,20 @@
 <BackgroundScreen Guid="a5c48169-bbea-4c70-957c-78bb64b477e3" Res="[1024 600]" ScreenColor="[255 85 85 85]" ActiveSet="d7184b23-7982-45a4-a2a9-d79b3f0f9d15" Name="DefaultBackground" No="0" Version="[10.6.0]">
-  <Checksum Value="1138468486" />
+  <Checksum Value="4211127224" />
   <CImage Guid="c8bd2669-6acd-43e6-9e7a-d4b0f8d36937" LockedPosition="0" ControlSet="d7184b23-7982-45a4-a2a9-d79b3f0f9d15" Name="" Anchor="5" IsDynamic="0" GesturesEnabled="0" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="0" Width_PropType="0" Width_Value="1024" Height_PropType="0" Height_Value="600">
     <State Guid="42ec7ead-80f4-4591-a71f-c3aa5e1ba81e" Name="Image" Version="[1.1.0]">
       <ColorDecorator Guid="938bb304-49b0-4f2f-ae6c-b4a625dd8aee" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
       <IconImageDecorator Guid="10015aa1-945b-403c-919b-84dd296e429c" ID="1" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="ab64e962-5bb9-425e-9401-c14f2dee331d" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
     </State>
   </CImage>
+  <ControlUserControl Guid="5b6c852b-b1cd-465c-ba84-df3f92e8ae57" LockedPosition="0" ControlSet="d7184b23-7982-45a4-a2a9-d79b3f0f9d15" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="40" Height_PropType="0" Height_Value="40">
+    <SubScreenEntry Guid="2019a3c3-0b5b-4d7d-9395-69b98032585e" SubScreen="dd023fed-206b-4783-ac8a-f2ae2e916827" Name="">
+      <SSAC Guid="63b0fee5-1c41-40ba-abb4-2e7df4c756bc" />
+    </SubScreenEntry>
+  </ControlUserControl>
+  <ControlUserControl Guid="473be342-7c4c-42c7-b434-dc216cf15231" LockedPosition="0" ControlSet="d7184b23-7982-45a4-a2a9-d79b3f0f9d15" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="900" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="110" Height_PropType="0" Height_Value="40">
+    <SubScreenEntry Guid="600ea21b-c2fe-42e9-8246-a955b2f0f2c8" SubScreen="5e4670aa-2694-4d05-8a17-b08ad4052867" Name="">
+      <SSAC Guid="0e4b7a3c-2c56-451f-aeec-a4b2015bf487" />
+    </SubScreenEntry>
+  </ControlUserControl>
   <ControlSet Guid="d7184b23-7982-45a4-a2a9-d79b3f0f9d15" Name="ControlSet" />
 </BackgroundScreen>

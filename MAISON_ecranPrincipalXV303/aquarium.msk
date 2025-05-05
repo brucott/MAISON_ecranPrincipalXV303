@@ -1,0 +1,10 @@
+<StandardScreen Guid="ca8d4caf-3a0d-4ca9-a7c3-da32b0224ebb" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="f7ce9465-6259-4eb7-972a-4c1dd9aabbc0" Name="aquarium" No="1" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="a5c48169-bbea-4c70-957c-78bb64b477e3">
+  <Checksum Value="3792537551" />
+  <Text Guid="0e2be235-4900-463d-952f-8aa5f781d985" LockedPosition="0" ControlSet="f7ce9465-6259-4eb7-972a-4c1dd9aabbc0" Name="" Anchor="5" X_PropType="0" X_Value="320" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="380" Height_PropType="0" Height_Value="50">
+    <State Guid="30a1db02-e21e-4ba5-a408-96a8d5aad836" Name="Text" Version="[1.1.0]">
+      <ColorDecorator Guid="02d2a153-c0f5-420a-9355-d1a7c5f9ff6d" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <TextDecorator Guid="073a5a33-6db1-42ed-889c-2b70dd2aa0d3" ID="1" Font="[0,32,0]" Color="[255 233 233 233]" Blink="0" AlignH="1" AlignV="1" Rotation="0" WordBreak="1" MainData_PropType="0" MainData_Value="777359b3-e33b-4b10-8e15-58490b5e0613" MainData_DynMapList="" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </Text>
+  <ControlSet Guid="f7ce9465-6259-4eb7-972a-4c1dd9aabbc0" Name="ControlSet" />
+</StandardScreen>

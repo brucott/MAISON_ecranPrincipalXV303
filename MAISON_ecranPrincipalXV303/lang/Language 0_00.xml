@@ -1,4 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <languageData Version="galileoNG">
-	<texts />
+	<texts>
+		<standard Guid="777359b3-e33b-4b10-8e15-58490b5e0613" textID="0"><![CDATA[AQUARIUM]]></standard>
+		<standard Guid="de7d4a5c-07ad-4c28-a1a3-8208b8ca981c" textID="1"><![CDATA[TEMPERATURES]]></standard>
+		<standard Guid="0387b624-069d-4fa6-8a9f-1069662ccf81" textID="2"><![CDATA[C°]]></standard>
+		<standard Guid="6f6cd271-1b3f-48d2-9dc7-fbc15857625a" textID="3"><![CDATA[%]]></standard>
+		<standard Guid="bce96a79-2678-4e60-b80c-bd0e16c428b2" textID="4"><![CDATA[Température de l'air]]></standard>
+		<standard Guid="0a4706dd-fd2c-4471-b648-fbf4430fa432" textID="5"><![CDATA[Poucentage d'humidité]]></standard>
+		<standard Guid="49373486-ce22-4e38-895c-d990f8b8df66" textID="6"><![CDATA[Température de l'air local piscine]]></standard>
+		<standard Guid="0eb987fc-c8e0-482c-bf31-aa79ca60852b" textID="7"><![CDATA[Température piscine]]></standard>
+	</texts>
 </languageData>

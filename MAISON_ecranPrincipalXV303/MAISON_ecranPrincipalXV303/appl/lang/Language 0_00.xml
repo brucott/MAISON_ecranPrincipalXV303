@@ -9,6 +9,14 @@
 	</fonts>
 	<texts>
 		<standard>
+			<s ID="0"><![CDATA[AQUARIUM]]></s>
+			<s ID="1"><![CDATA[TEMPERATURES]]></s>
+			<s ID="2"><![CDATA[C°]]></s>
+			<s ID="3"><![CDATA[%]]></s>
+			<s ID="4"><![CDATA[Température de l'air]]></s>
+			<s ID="5"><![CDATA[Poucentage d'humidité]]></s>
+			<s ID="6"><![CDATA[Température de l'air local piscine]]></s>
+			<s ID="7"><![CDATA[Température piscine]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>
