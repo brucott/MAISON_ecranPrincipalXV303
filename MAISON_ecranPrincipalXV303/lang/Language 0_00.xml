@@ -9,5 +9,16 @@
 		<standard Guid="0a4706dd-fd2c-4471-b648-fbf4430fa432" textID="5"><![CDATA[Poucentage d'humidité]]></standard>
 		<standard Guid="49373486-ce22-4e38-895c-d990f8b8df66" textID="6"><![CDATA[Température de l'air local piscine]]></standard>
 		<standard Guid="0eb987fc-c8e0-482c-bf31-aa79ca60852b" textID="7"><![CDATA[Température piscine]]></standard>
+		<standard Guid="6c76e087-5b25-4a0a-acc3-8f3e5f23a80a" textID="8"><![CDATA[ACCUEIL]]></standard>
+		<standard Guid="a81286f2-4b60-48f3-81ac-bcc0a7751e61" textID="9"><![CDATA[Météo]]></standard>
+		<standard Guid="043f6b88-3108-4f71-ae89-d9ac0d86c51d" textID="10"><![CDATA[Piscine]]></standard>
+		<standard Guid="5ad832be-d608-40c4-905d-ef7ccd05aec8" textID="11"><![CDATA[Aquarium]]></standard>
+		<standard Guid="e539c1ce-ea2e-444e-bc3c-8c446c6417b3" textID="12"><![CDATA[Température]]></standard>
+		<standard Guid="6481c388-09b6-45eb-afae-ddadce09387a" textID="13"><![CDATA[Humidité]]></standard>
+		<standard Guid="0de97825-ae1a-413b-834a-30cfe2d8e995" textID="14"><![CDATA[Eau]]></standard>
+		<standard Guid="e819feef-dabc-41f9-8536-e41d34510a9e" textID="15"><![CDATA[Pompe]]></standard>
+		<standard Guid="ced98b0c-5d19-4b0a-acf2-51a18cf01bbf" textID="16"><![CDATA[Eclairage]]></standard>
+		<standard Guid="aa36a5fe-954b-45bc-9314-5141f3da8b9e" textID="17"><![CDATA[Chauffage]]></standard>
+		<standard Guid="b8c2ab85-726e-4865-9082-c4386f18af71" textID="18"><![CDATA[Terrasse]]></standard>
 	</texts>
 </languageData>

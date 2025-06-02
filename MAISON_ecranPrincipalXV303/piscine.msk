@@ -1,0 +1,4 @@
+<StandardScreen Guid="e10831f0-66a0-486c-b2ce-60c5dc64f3bd" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="1280c743-8450-4b8c-b885-0ee459a31be1" Name="piscine" No="3" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="a5c48169-bbea-4c70-957c-78bb64b477e3">
+  <Checksum Value="739843440" />
+  <ControlSet Guid="1280c743-8450-4b8c-b885-0ee459a31be1" Name="ControlSet" />
+</StandardScreen>

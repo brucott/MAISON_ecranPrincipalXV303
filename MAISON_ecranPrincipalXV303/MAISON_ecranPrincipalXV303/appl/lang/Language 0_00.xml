@@ -17,6 +17,17 @@
 			<s ID="5"><![CDATA[Poucentage d'humidité]]></s>
 			<s ID="6"><![CDATA[Température de l'air local piscine]]></s>
 			<s ID="7"><![CDATA[Température piscine]]></s>
+			<s ID="8"><![CDATA[ACCUEIL]]></s>
+			<s ID="9"><![CDATA[Météo]]></s>
+			<s ID="10"><![CDATA[Piscine]]></s>
+			<s ID="11"><![CDATA[Aquarium]]></s>
+			<s ID="12"><![CDATA[Température]]></s>
+			<s ID="13"><![CDATA[Humidité]]></s>
+			<s ID="14"><![CDATA[Eau]]></s>
+			<s ID="15"><![CDATA[Pompe]]></s>
+			<s ID="16"><![CDATA[Eclairage]]></s>
+			<s ID="17"><![CDATA[Chauffage]]></s>
+			<s ID="18"><![CDATA[Terrasse]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>
